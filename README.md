@@ -1,4 +1,5 @@
 ![](https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif) 
+
 # 💫 About Me:
 <!Hello visitor> <br><br>👋I'm Obaapa, a Mobile App Developer.<br><br>🏹Aim: Develop unique concepts across several platforms using UI/UX and Mobile App IDE.<br><br>🎯Target (for now): React Native TikTok Clone.<br><br>💡Soft Skill: Problem Solver, Team Worker and Innovative.<br><br>📫 Email: oaampaben@gmail.com<br><br>⚡ Fun fact: I think Java is better.
 
