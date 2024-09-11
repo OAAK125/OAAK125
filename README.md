@@ -1,7 +1,7 @@
 ![](https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif) 
 
 # 💫 About Me:
-<!Hello visitor> <br><br>👋I'm Obaapa, a Ui/Ux Designer and Mobile App Developer.📫 Email: oaampaben@gmail.com
+<!Hello visitor> <br><br>👋I'm Obaapa, a Ui/Ux Designer and Mobile App Developer.<br> <br>📫 Email: oaampaben@gmail.com
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/obaapaampaben) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oaampaben) 
