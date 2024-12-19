@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤗 Hi. My name is Obaapa.<br><br>🥇 I'm into Ui/UX Design, Mobile App Development and AI/ML. <br><br> 📫Email: oaampaben@gmail.com <br><br>
+🤗 Hi. My name is Obaapa.<br><br>🥇 I'm into Ui/UX Design, Mobile App Development and AI/ML. <br><br>
 
 
 ## 🌐 Socials:
