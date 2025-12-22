@@ -20,8 +20,8 @@
 
 ---
 
-### 💳 About Me
-I bridge the gap between **user-centric design** and **complex financial architecture**. My focus is on building e-commerce and financial interfaces that are high-performing, accessible, and rooted in security.
+### 👤 About Me
+I bridge the gap between user-centric design and complex development architecture. My focus is on building e-commerce and financial interfaces that are high-performing, accessible, and rooted in security.
 
 - 🔭 I’m currently working on **[Checkout optimization: Reduce cart abandonment for mobile shoppers]**
 - 🌱 I’m currently learning **[Rapid UX research for Financial Apps ]**
