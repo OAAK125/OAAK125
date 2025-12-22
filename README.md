@@ -37,12 +37,12 @@ I bridge the gap between **user-centric design** and **complex financial archite
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" /><br>
+      <img src="https://skillicons.dev/icons?i=figma,canva" /><br>
       User Research • Wireframing  • Design Systems • Prototyping
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /><br>
-      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,git" /><br>
+      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js • Github/Git
     </td>
   </tr>
 </table>
