@@ -37,7 +37,7 @@ I bridge the gap between **user-centric design** and **complex financial archite
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,notion,framer" /><br>
+      <img src="https://skillicons.dev/icons?i=figma,notion" /><br>
       User Research • Wireframing  • Design Systems • Prototyping
     </td>
     <td align="center">
