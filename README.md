@@ -43,7 +43,7 @@ I bridge the gap between user-centric design and complex development architectur
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,git" /><br>
-      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js • Github/Git
+      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js • GitHub/Git
     </td>
   </tr>
 </table>
