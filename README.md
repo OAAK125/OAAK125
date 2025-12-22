@@ -3,9 +3,9 @@
   
   <h1>Hi, I'm Obaapa Ama 👋</h1>
   
-  <h3><b>UI/UX Designer</b> 🎨 & <b>Front-End Developer</b> 💻</h3>
+  <h3><b>UI/UX Designer</b> 🎨 & <b>Front-End Developer</b> 💻 || E-commerce & Fintech </h3>
   <p>
-    <i>Specializing in the intersection of <b>E-commerce</b> and <b>Fintech</b>. Building secure, scalable and high-conversion experiences.</i>
+    <i>Specializing in the intersection of design and development. Building secure, scalable and high-conversion experiences.</i>
   </p>
 
   <p>
