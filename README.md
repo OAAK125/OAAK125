@@ -46,4 +46,3 @@ I bridge the gap between user-centric design and complex development architectur
     </td>
   </tr>
 </table>
----
