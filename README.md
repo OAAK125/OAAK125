@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   
   <h1>Hi, I'm Obaapa Ama 👋</h1>
   
@@ -47,13 +46,4 @@ I bridge the gap between user-centric design and complex development architectur
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=OAAK125&show_icons=true&theme=radical&hide_border=true" height="160px" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAAK125&layout=compact&theme=radical&hide_border=true" height="160px" alt="languages" />
-</div>
-
 ---
