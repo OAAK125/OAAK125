@@ -38,7 +38,7 @@ I bridge the gap between user-centric design and complex development architectur
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,notion" /><br>
+      <img src="https://skillicons.dev/icons?i=figma" /><br>
       User Research • Wireframing  • Design Systems • Prototyping
     </td>
     <td align="center">
