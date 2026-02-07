@@ -4,9 +4,6 @@
   
   <h3><b>UI/UX Designer</b> 🎨 & <b>Front-End Developer</b> 💻 </h3>
   <h3>E-commerce & Fintech </h3>
-  <p>
-    Specializing in the intersection of design and development. Building secure, scalable and high-conversion experiences.
-  </p>
 
   <p>
     <a href="https://www.behance.net/obaapaampaben">
@@ -21,11 +18,10 @@
 ---
 
 ### 👤 About Me
-I bridge the gap between user-centric design and complex development architecture. My focus is on building e-commerce and financial interfaces that are high-performing, accessible, and rooted in security.
+I bridge the gap between conversion driven design and scalable development. My focus is on building e-commerce and financial interfaces that are accessible, secure, and scalable and support user trust, engagement, and conversion. 
 
 - 🔭 I’m currently working on **[Checkout optimization: Reduce cart abandonment for mobile shoppers]**
 - 🌱 I’m currently learning **[E-commerce Landing Page using HTML, Tailwind CSS and JavaScript]**
-- ⚡ **The Focus:** Designing friction-less checkout flows that maximize user trust and minimize cart abandonment.
 
 ---
 
@@ -37,12 +33,10 @@ I bridge the gap between user-centric design and complex development architectur
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" /><br>
       User Research • Wireframing  • Design Systems • Prototyping
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,git" /><br>
-      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js • GitHub/Git
+      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js • GitHub/Git • Postgresql • RestAPIs.
     </td>
   </tr>
 </table>
