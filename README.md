@@ -40,3 +40,8 @@ I bridge the gap between conversion driven design and scalable development. My f
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Badges
+[![An image of @oaak125's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oaak125)](https://holopin.io/@oaak125)
