@@ -18,7 +18,7 @@
 ---
 
 ### 👤 About Me
-I bridge the gap between conversion driven design and scalable development. My focus is on building e-commerce and financial interfaces that are accessible, secure, and scalable and support user trust, engagement, and conversion. 
+I bridge the gap between conversion driven design and scalable development. My focus is on building e-commerce and financial interfaces that are accessible, secure, and scalable and support conversion, retension, and compliance. 
 
 - 🔭 I’m currently working on **[Checkout optimization: Reduce cart abandonment for mobile shoppers]**
 - 🌱 I’m currently learning **[E-commerce Landing Page using HTML, Tailwind CSS and JavaScript]**
