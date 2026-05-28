@@ -21,22 +21,21 @@
 Technical Product Manager holding BSc in Computer Science, with a strong foundation in front-end web development  and UI/UX design. Proven track record of accelerating product velocity, reducing engineering rework by 25%, and leading agile cross-functional teams. Adept at managing the end-to-end product lifecycle from user research to technical launch.
 
 - 🔭 I’m currently working on **[Memory Ticket App]**
-- 🌱 I’m currently reading **[Cracking the PM Career]**
-
+  
 ---
 
 ### 🛠️ The Toolkit
 <table align="center">
   <tr>
-    <td align="center" width="33%"><b>🎨 Design & UX</b></td>
-    <td align="center" width="33%"><b>💻 Front-End</b></td>
+    <td align="center" width="33%"><b>Product Management</b></td>
+    <td align="center" width="33%"><b>Technical</b></td>
   </tr>
   <tr>
     <td align="center">
-      User Research • Wireframing  • Design Systems • Prototyping
+       Product Strategy, User Research & Discovery, Market & Competitive Analysis, Product Analytics, Feature Prioritization, Agile/Scrum Roadmapping, Lifecycle Management.
     </td>
     <td align="center">
-      HTML, CSS & JS • Tailwind CSS & Bootstrap • React/Next.js • GitHub/Git • Postgresql • RestAPIs.
+      HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Next.js, React, Supabase, Vercel, PostgreSQL, REST  APIs, Git/GitHub, System Architecture, Technical Writing.
     </td>
   </tr>
 </table>
