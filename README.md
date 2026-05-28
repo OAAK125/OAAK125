@@ -2,12 +2,12 @@
   
   <h1>Hi, I'm Obaapa Ama 👋</h1>
   
-  <h3><b>UI/UX Designer</b> 🎨 & <b>Front-End Developer</b> 💻 </h3>
+  <h3><b> Technical Product Manager</b></b> 💻 </h3>
   <h3>E-commerce & Fintech </h3>
 
   <p>
-    <a href="https://www.behance.net/obaapaampaben">
-      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <a href="https://oaak.framer.website/">
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Foaak.framer.website%2F&up_message=Portfolio" />
     </a>
     <a href="https://linkedin.com/in/oaampaben">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,10 +18,10 @@
 ---
 
 ### 👤 About Me
-I bridge the gap between conversion driven design and scalable development. My focus is on building e-commerce and financial interfaces that are accessible, secure, and scalable and support conversion, retension, and compliance. 
+Technical Product Manager holding BSc in Computer Science, with a strong foundation in front-end web development  and UI/UX design. Proven track record of accelerating product velocity, reducing engineering rework by 25%, and leading agile cross-functional teams. Adept at managing the end-to-end product lifecycle from user research to technical launch.
 
-- 🔭 I’m currently working on **[Checkout optimization: Reduce cart abandonment for mobile shoppers]**
-- 🌱 I’m currently learning **[E-commerce Landing Page using HTML, Tailwind CSS and JavaScript]**
+- 🔭 I’m currently working on **[Memory Ticket App]**
+- 🌱 I’m currently reading **[Cracking the PM Career]**
 
 ---
 
