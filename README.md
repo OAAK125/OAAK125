@@ -2,7 +2,7 @@
   
   <h1>Hi, I'm Obaapa Ama 👋</h1>
   
-  <h3><b> Technical Product Manager</b></b> 💻 </h3>
+  <h3><b> Product Manager</b></b> 💻 </h3>
   <h3>E-commerce & Fintech </h3>
 
   <p>
@@ -18,7 +18,7 @@
 ---
 
 ### 👤 About Me
-Technical Product Manager holding BSc in Computer Science, with a strong foundation in front-end web development  and UI/UX design. Proven track record of accelerating product velocity, reducing engineering rework by 25%, and leading agile cross-functional teams. Adept at managing the end-to-end product lifecycle from user research to technical launch.
+Product Manager holding BSc in Computer Science, with a strong foundation in front-end web development  and UI/UX design. Proven track record of accelerating product velocity, reducing engineering rework by 25%, and leading agile cross-functional teams. Adept at managing the end-to-end product lifecycle from user research to technical launch.
 
 - 🔭 I’m currently working on **[Memory Ticket App]**
   
