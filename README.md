@@ -20,7 +20,7 @@
 ### 👤 About Me
 Product Manager holding BSc in Computer Science, with a strong foundation in front-end web development  and UI/UX design. Proven track record of accelerating product velocity, reducing engineering rework by 25%, and leading agile cross-functional teams. Adept at managing the end-to-end product lifecycle from user research to technical launch.
 
-- 🔭 I’m currently working on **[Memory Ticket App]**
+- 🔭 I’m currently working on **[Subscription Cost Optimizer]**
   
 ---
 
