@@ -3,7 +3,6 @@
   <h1>Hi, I'm Obaapa Ama 👋</h1>
   
   <h3><b> Product Manager</b></b> 💻 </h3>
-  <h3>E-commerce & Fintech </h3>
 
   <p>
     <a href="https://oaak.framer.website/">
